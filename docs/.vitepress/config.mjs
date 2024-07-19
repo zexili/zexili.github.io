@@ -10,7 +10,6 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '示例', link: '/markdown-examples' }
     ],
-
     sidebar: [
       {
         text: '示例',
@@ -20,12 +19,20 @@ export default defineConfig({
         ]
       }
     ],
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/zexili' }
     ],
-    sitemap: {
-      hostname: 'https://example.com'
+    footer: {
+      message: 'zexi.li\'s blog',
+      copyright: 'Copyright © 2024 ~ 至今 zexili'
+    },
+    search: {
+      provider: 'local'
     }
-  }
+  },
+  sitemap: {
+    hostname: 'https://example.com',
+    lastmodDateOnly: true
+  },
+  lastUpdated: true
 })
