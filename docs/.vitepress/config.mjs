@@ -4,7 +4,6 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "zexili",
   description: "hi there, I'm zexi.li",
-  base: 'zexili',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
