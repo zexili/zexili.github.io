@@ -3,13 +3,13 @@ layout: home
 # 首页部分元素定制
 blog:
   # 设置logo
-  logo: img/yaolinxue.png
+  logo: img/zexi.li.png
   # 设置头像分离展示模式
   avatarMode: card
   # 移动端隐藏头部头像展示
   minScreenAvatar: false
   # 设置首页的 banner 信息
-  name: yaolinxue's Blog
+  name: zexi.li's Blog
   motto: 兴安安国, 自立立人
   inspiring:
     - 知行合一

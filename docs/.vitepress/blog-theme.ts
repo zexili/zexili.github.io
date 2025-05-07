@@ -6,9 +6,9 @@ import {getThemeConfig, SearchConfig} from '@sugarat/theme/node'
 
 // const baseUrl = 'https://sugarat.top'
 // const RSS: Theme.RSSOptions = {
-//   title: 'yaolinxue',
+//   title: 'zexi.li',
 //   baseUrl,
-//   copyright: 'Copyright (c) 2018-present, yaolinxue',
+//   copyright: 'Copyright (c) 2018-present, zexi.li',
 //   description: '自立立人, 兴安安国',
 //   language: 'zh-cn',
 //   image: 'https://img.cdn.sugarat.top/mdImg/MTY3NDk5NTE2NzAzMA==674995167030',
@@ -33,8 +33,8 @@ const blogTheme = getThemeConfig({
     // 页脚
     footer: {
         // message 字段支持配置为HTML内容，配置多条可以配置为数组
-        message: 'www.yaolinxue.com',
-        copyright: 'MIT License | yaolinxue',
+        message: 'www.zexi.li.com',
+        copyright: 'MIT License | zexi.li',
         version: false,
         icpRecord: {
           name: '京ICP备1xxxx号',
@@ -50,7 +50,7 @@ const blogTheme = getThemeConfig({
     themeColor: 'el-blue',
 
     // 文章默认作者
-    author: 'yaolinxue',
+    author: 'zexi.li',
 
     // 友链
     friend: [
@@ -97,7 +97,7 @@ const blogTheme = getThemeConfig({
 
     // 评论插件
     comment: {
-        repo: 'yaolinxue/yaolinxue.github.io',
+        repo: 'zexi.li/zexi.li.github.io',
         repoId: 'MDEwOlJlcG9zaXRvcnkyNzMxNzU1NzE=',
         category: 'Q&A',
         categoryId: 'MDE4OkRpc2N1c3Npb25DYXRlZ29yeTkxNzI0MjY=',

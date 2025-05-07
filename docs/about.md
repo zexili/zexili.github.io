@@ -42,9 +42,9 @@ PR [#866](https://github.com/sofastack/sofa-rpc/pull/866)
 
 ## 联系方式
 
-- Mail: [yaolinxue@163.com](mailto:yaolinxue@163.com)
-- Github: [https://github.com/yaolinxue](https://github.com/yaolinxue)
-- Twitter: [https://twitter.com/yaolinxue](https://twitter.com/yaolinxue)
+- Mail: [zexi.li@163.com](mailto:zexi.li@163.com)
+- Github: [https://github.com/zexi.li](https://github.com/zexi.li)
+- Twitter: [https://twitter.com/zexi.li](https://twitter.com/zexi.li)
 
 ## 最后
 

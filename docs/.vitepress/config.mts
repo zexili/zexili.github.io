@@ -18,9 +18,9 @@ export default defineConfig({
     // 继承博客主题(@sugarat/theme)
     extends: blogTheme,
     // 仓库名
-    // base: '/yaolinxue.github.io/',
+    // base: '/zexi.li.github.io/',
     lang: 'zh-cn',
-    title: 'yaolinxue - 兴安安国, 自立立人',
+    title: 'zexi.li - 兴安安国, 自立立人',
     description: '为学应尽毕生力，攀高须贵少年时',
     lastUpdated: true,
     // 详见：https://vitepress.dev/zh/reference/site-config#head
@@ -105,7 +105,7 @@ export default defineConfig({
         socialLinks: [
             {
                 icon: 'github',
-                link: 'https://github.com/yaolinxue'
+                link: 'https://github.com/zexi.li'
             }
         ],
         // 侧边栏
@@ -287,13 +287,13 @@ export default defineConfig({
                  * 打赏模块样式
                  */
                 type: 'simple',
-                aliPayQR: 'https://www.yaolinxue.com/img/aliPayQR.png',
-                weChatQR: 'https://www.yaolinxue.com/img/weChatQR.png'
+                aliPayQR: 'https://www.zexi.li.com/img/aliPayQR.png',
+                weChatQR: 'https://www.zexi.li.com/img/weChatQR.png'
             })
         ]
     },
     sitemap: {
-        hostname: 'https://www.yaolinxue.com'
+        hostname: 'https://www.zexi.li.com'
     },
     locales: {
         root: {
